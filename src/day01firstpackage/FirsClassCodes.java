@@ -17,6 +17,7 @@ public class FirsClassCodes {
 		
 		System.out.println("benim son denemem");
 		
+		System.out.println("benim son denememamamm");
 	}
 
 }
